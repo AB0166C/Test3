@@ -7,7 +7,7 @@ def print_reversed(s):
     return s[::-1]
 
 def print_twice(s):
-    print( s ,s) 
+    return( s ,s) 
 
 if __name__ == "__main__":
     s = input()
